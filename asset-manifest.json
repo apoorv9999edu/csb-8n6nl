@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://apoorv9999edu.github.io/csb-8n6nl/static/css/main.1c957c7b.chunk.css",
+    "main.js": "https://apoorv9999edu.github.io/csb-8n6nl/static/js/main.6148d779.chunk.js",
+    "main.js.map": "https://apoorv9999edu.github.io/csb-8n6nl/static/js/main.6148d779.chunk.js.map",
+    "runtime-main.js": "https://apoorv9999edu.github.io/csb-8n6nl/static/js/runtime-main.50681943.js",
+    "runtime-main.js.map": "https://apoorv9999edu.github.io/csb-8n6nl/static/js/runtime-main.50681943.js.map",
+    "static/css/2.f5de792d.chunk.css": "https://apoorv9999edu.github.io/csb-8n6nl/static/css/2.f5de792d.chunk.css",
+    "static/js/2.713e1801.chunk.js": "https://apoorv9999edu.github.io/csb-8n6nl/static/js/2.713e1801.chunk.js",
+    "static/js/2.713e1801.chunk.js.map": "https://apoorv9999edu.github.io/csb-8n6nl/static/js/2.713e1801.chunk.js.map",
+    "index.html": "https://apoorv9999edu.github.io/csb-8n6nl/index.html",
+    "static/css/2.f5de792d.chunk.css.map": "https://apoorv9999edu.github.io/csb-8n6nl/static/css/2.f5de792d.chunk.css.map",
+    "static/css/main.1c957c7b.chunk.css.map": "https://apoorv9999edu.github.io/csb-8n6nl/static/css/main.1c957c7b.chunk.css.map",
+    "static/js/2.713e1801.chunk.js.LICENSE.txt": "https://apoorv9999edu.github.io/csb-8n6nl/static/js/2.713e1801.chunk.js.LICENSE.txt",
+    "static/media/handler.5bb90c08.jpg": "https://apoorv9999edu.github.io/csb-8n6nl/static/media/handler.5bb90c08.jpg",
+    "static/media/manufacturer.69604bab.png": "https://apoorv9999edu.github.io/csb-8n6nl/static/media/manufacturer.69604bab.png",
+    "static/media/physician.a4c72f5b.jpg": "https://apoorv9999edu.github.io/csb-8n6nl/static/media/physician.a4c72f5b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50681943.js",
+    "static/css/2.f5de792d.chunk.css",
+    "static/js/2.713e1801.chunk.js",
+    "static/css/main.1c957c7b.chunk.css",
+    "static/js/main.6148d779.chunk.js"
+  ]
+}
